@@ -21,7 +21,7 @@
 # Exit if any command fails so we can troubleshoot
 set -e
 
-conf_dir="/usr/nginx/conf"
+conf_dir="/etc/nginx/conf"
 
 #### HTTP setup
 
